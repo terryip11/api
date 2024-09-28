@@ -1,0 +1,100 @@
+{
+  "bar_name": "The Cheers Bar",
+  "location": "123 Main Street, Anytown, USA",
+  "contact_info": {
+    "phone": "+1-555-123-4567",
+    "email": "info@thecheersbar.com",
+    "website": "www.thecheersbar.com"
+  },
+  "operating_hours": {
+    "monday": "17:00 - 02:00",
+    "tuesday": "17:00 - 02:00",
+    "wednesday": "17:00 - 02:00",
+    "thursday": "17:00 - 02:00",
+    "friday": "16:00 - 03:00",
+    "saturday": "16:00 - 03:00",
+    "sunday": "18:00 - 01:00"
+  },
+  "inventory": [
+    {
+      "category": "Beer",
+      "items": [
+        {
+          "name": "Budweiser",
+          "price": 5.5,
+          "currency": "USD"
+        },
+        {
+          "name": "Guinness",
+          "price": 6.0,
+          "currency": "USD"
+        },
+        {
+          "name": "Heineken",
+          "price": 5.75,
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "category": "Wine",
+      "items": [
+        {
+          "name": "Cabernet Sauvignon",
+          "price": 9.0,
+          "currency": "USD"
+        },
+        {
+          "name": "Chardonnay",
+          "price": 8.5,
+          "currency": "USD"
+        },
+        {
+          "name": "Pinot Noir",
+          "price": 10.0,
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "category": "Cocktails",
+      "items": [
+        {
+          "name": "Mojito",
+          "price": 8.0,
+          "currency": "USD"
+        },
+        {
+          "name": "Margarita",
+          "price": 7.5,
+          "currency": "USD"
+        },
+        {
+          "name": "Old Fashioned",
+          "price": 9.0,
+          "currency": "USD"
+        }
+      ]
+    },
+    {
+      "category": "Soft Drinks",
+      "items": [
+        {
+          "name": "Coca-Cola",
+          "price": 2.5,
+          "currency": "USD"
+        },
+        {
+          "name": "Sprite",
+          "price": 2.5,
+          "currency": "USD"
+        },
+        {
+          "name": "Tonic Water",
+          "price": 3.0,
+          "currency": "USD"
+        }
+      ]
+    }
+  ]
+}
