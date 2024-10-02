@@ -1,86 +1,14 @@
 [
-{"id": "1", "name": "The Wanch", "description": "The Wanch is a beloved live music venue nestled in the heart of Hong Kong. Known for its eclectic mix of local and international acts, it features everything from rock and blues to indie and jazz. The cozy, unpretentious atmosphere invites music lovers to enjoy performances up close, while the bar offers a great selection of craft beers and cocktails. With regular jam sessions and open mic nights, The Wanch is a hub for both established artists and budding musicians.", "info": "網站: https://www.thewanch.hk 
-電話：+852 3692 5933 地址：1/F, Henan Building, 90 Jaffe Rd, Wan Chai, Hong Kong Island, Hong Kong
-營業時間：Mon-Fri: 11:30am - 2:00am, Sat & Sun: 2:00pm - 2:00am"},
-{"id": "2", "name": "Rev-Now", "description": "Rev-Now is a vibrant music bar in Taipei that caters to rock enthusiasts. With its retro decor and energetic atmosphere, it’s a hotspot for live performances showcasing both local talent and international acts. The venue hosts themed nights and special events, making every visit unique. Patrons can enjoy a diverse menu of drinks and light bites while soaking in the electric vibe. Whether you’re dancing the night away or savoring a drink, Rev-Now captures the essence of Taipei’s thriving music scene.", "info": "網站: https://www.facebook.com/revnowlive
-
-電話：+886 983 167 597
-
-地址：台灣台北市大安區延吉街259號號 B1
-
-營業時間：Wed-Thurs, Sun-Mon: 18:00am-12:00am,
-Fri & Sat: 18:00pm-2:00am, Tue: Closed
-"},
-{"id": "3", "name": "The Rock Pub", "description": "The Rock Pub is a legendary venue in Bangkok, renowned for its dedication to rock music. This intimate bar features a lineup of live bands playing everything from classic rock to heavy metal. The atmosphere is lively, with passionate crowds and a welcoming vibe. The bar serves a variety of drinks, including local beers and cocktails, perfect for enjoying while rocking out. With its history of hosting both local and touring artists, The Rock Pub is a must-visit for music lovers in Thailand.","info": "網站: https://www.facebook.com/therockpub/
-
-電話：+66 99 191 5666
-
-地址：1011/3-4 Phahonyothin Rd., Payathai, Bangkok, Thailand
-
-營業時間： Sun-Thurs: 18:00am-12:30am, Fri & Sat: 18:00pm-1:30am"},
-{"id": "4", "name": "Rock Factory", "description": "Rock Factory in Pattaya is a lively bar that embodies the spirit of rock music. With regular live performances, the venue showcases both emerging and established artists. The walls are adorned with memorabilia, creating an immersive rock ambiance. Patrons can enjoy a wide selection of drinks, including signature cocktails and local brews, while reveling in the energetic atmosphere. The spacious layout also features a dance floor, making it a popular spot for late-night revelries and unforgettable musical experiences.", "info": "網站: https://www.facebook.com/Rockfactorypattaya/
-
-電話：+66 92 970 6113
-
-地址：210/51-53 Rock Factory Soi Buakhao, Pattaya, Thailand, Chon Buri
-
-營業時間： Mon -Sun: 17:00am - 04:00am"},
-{"id": "5", "name": "Bauhaus Roppongi", "description": "Bauhaus Roppongi is a unique music bar in Tokyo, blending art and rock culture. Known for its creative cocktails and eclectic music selection, it attracts a diverse crowd of locals and expats. The venue hosts live DJ sets and performances, featuring genres from rock to electronic. Its stylish interior, adorned with contemporary art, enhances the vibrant atmosphere. Bauhaus is not just a place to drink but a cultural hub where music, art, and nightlife collide in the heart of Roppongi.", "info": "網站: https://rockbarbauhaus.com
-
-電話：+81  03-5544-8253
-
-地址：106-0032 Tokyo Minato-ku, Urban Building B1, 7-13-2 Roppongi
-
-營業時間： Tue-Sat: 17:00am - 01:00am, Sun & Mon: Closed"},
-{"id": "6", "name": "Rockaholic Shibuya Music Bar", "description": "Rockaholic Shibuya Music Bar is a haven for rock fans in Tokyo. This intimate venue offers a cozy setting filled with memorabilia from rock legends. The bar features live performances from emerging bands and tribute acts, ensuring a lively atmosphere. Guests can enjoy a wide range of drinks, including craft beers and signature cocktails. With its friendly staff and passionate music lovers, Rockaholic is the perfect spot to unwind, socialize, and experience the vibrant Tokyo music scene.", "info": "網站: https://bar-rockaholic.jp/shibuya/
-
-電話：+81 3-6416-9469
-
-地址：11-1 Udagawacho Ryuko Bldg. Annex B1F, Shibuya 150-0042 Tokyo Prefecture
-
-營業時間： Mon - Sun: 19:00pm – 05:00am
-"},
-{"id": "7", "name": "12 Monkeys Music Hall & Pub", "description": "12 Monkeys Music Hall & Pub in the Philippines is a dynamic venue that celebrates live music in all its forms. With a diverse lineup of local and international acts, it features genres ranging from rock and reggae to jazz and indie. The intimate space encourages a close connection between artists and audiences. The bar offers a wide selection of beverages, including local craft beers and cocktails. With its creative atmosphere and regular events, 12 Monkeys is a must-visit for music enthusiasts.", "info": "網站: https://www.facebook.com/12MonkeysPH/
-
-電話：+63 917 570 3222
-
-地址：Estancia Mall Capitol Common, Ortigas Center, Pasig, Philippines, 1605
-
-營業時間： Sun - Sat: 11:00am – 03:00am"},
-{"id": "8", "name": "Club FF", "description": "Club FF in Korea is a prominent music venue that showcases the best of the local indie and rock scenes. With its laid-back vibe and passionate crowd, the club hosts regular live performances that draw in music lovers from all over. The bar serves a selection of drinks, including local beers and cocktails, perfect for enjoying while listening to emerging talent. Club FF is a cornerstone of Korea’s underground music culture, making it a key destination for anyone looking to discover new sounds.", "info": "網站: https://clubff.modoo.at
-
-電話：010-9025-3407 
-
-地址：12, Wausan-ro 17-gil, Mapo-gu, Seoul, ROK
-
-營業時間： Wed – Thurs, Sun: 20:00 – 23:00, Fri – Sat: 18:00 – 06:00
-Mon - Tue: closed"},
-{"id": "9", "name": "Hanoi Rock City", "description": "Hanoi Rock City is a vibrant music venue and cultural hub in Vietnam, known for its eclectic lineup of live performances. The space features a mix of local and international artists, spanning genres from rock to electronic. With its artistic decor and outdoor area, it creates a relaxed atmosphere for music lovers to gather. The bar offers a variety of drinks and often hosts art exhibitions, film screenings, and other creative events, making it a dynamic destination for both music and culture.", "info": "網站: https://hrcwelive.com/en/homepage-en/
-
-電話：+84 98 823 66 08
-
-地址：27/52, To Ngoc Van Street, Quang An, Tay Ho, Hanoi
-
-營業時間： Mon - Sun: 17:00 – 23:00"},
-{"id": "10", "name": "The Flying V Metal Bar", "description": "The Flying V Metal Bar is a haven for metal enthusiasts in Singapore. Known for its heavy metal and hard rock performances, the venue features a diverse lineup of local bands and tribute acts. The dark, gritty decor creates a fitting atmosphere for headbanging and moshing. The bar offers an extensive selection of craft beers and cocktails, enhancing the energetic vibe. With regular themed nights and events, The Flying V is the go-to spot for anyone looking to immerse themselves in Singapore’s metal scene.", "info": "網站: https://www.theflyingvmetalbar.com
-
-電話：+65 8381 2903
-
-地址：1 Coleman Street, #B1-29/30, The Adelphi 179803 Singapore
-
-營業時間：Tue, Sun 16:00pm - 23:00pm, Thurs & Sat: 16:00pm - 23:59am, Mon, Wed: closed"},
-{"id": "11", "name": "Tom, Dick & Harry's", "description": "Tom, Dick & Harry's is a popular music bar in Malaysia, known for its laid-back atmosphere and live performances. Featuring a mix of local bands and acoustic acts, it offers a diverse range of musical genres. The bar serves an extensive menu of drinks and comfort food, making it a perfect spot for casual gatherings with friends. With its inviting decor and friendly staff, Tom, Dick & Harry's is a favorite among locals and visitors looking to unwind and enjoy great music.", "info": "網站: https://www.facebook.com/TDHmalaysia/
-
-電話：+60 13-340 8800
-
-地址：R-13A, Jalan PJU 1A/7A, Oasis Square, Oasis Damansara, Petaling Jaya, Malaysia
-
-營業時間：Mon - Sun 16:00pm - 12:00am"},
-{"id": "12", "name": "Gimme Shelter Bali", "description": "Gimme Shelter Bali is a vibrant music venue located in the heart of Bali, celebrated for its live music and artsy vibe. The bar hosts a variety of local and international acts, from rock bands to DJs, creating an electric atmosphere. With its eclectic decor and open-air setting, it’s a perfect spot to enjoy a drink while soaking in the tropical ambiance. The menu features a mix of cocktails, beers, and delicious local cuisine, making Gimme Shelter a must-visit for music lovers in Bali.", "info": "網站: https://www.facebook.com/gimmeshelterbali/about
-
-電話：+62 (0) 812-3804-8867
-
-地址：Jalan Lingkar Nelayan No.444, Canggu, North Kuta, Badung, Bali, Indonesia
-
-營業時間：Mon – Sun: 17:00pm - 02:00am"}
+{"id": "1", "name": "The Wanch", "description": "The Wanch is a beloved live music venue nestled in the heart of Hong Kong. Known for its eclectic mix of local and international acts, it features everything from rock and blues to indie and jazz. The cozy, unpretentious atmosphere invites music lovers to enjoy performances up close, while the bar offers a great selection of craft beers and cocktails. With regular jam sessions and open mic nights, The Wanch is a hub for both established artists and budding musicians.", "info": ""},
+{"id": "2", "name": "Rev-Now", "description": "Rev-Now is a vibrant music bar in Taipei that caters to rock enthusiasts. With its retro decor and energetic atmosphere, it’s a hotspot for live performances showcasing both local talent and international acts. The venue hosts themed nights and special events, making every visit unique. Patrons can enjoy a diverse menu of drinks and light bites while soaking in the electric vibe. Whether you’re dancing the night away or savoring a drink, Rev-Now captures the essence of Taipei’s thriving music scene.", "info": ""},
+{"id": "3", "name": "The Rock Pub", "description": "The Rock Pub is a legendary venue in Bangkok, renowned for its dedication to rock music. This intimate bar features a lineup of live bands playing everything from classic rock to heavy metal. The atmosphere is lively, with passionate crowds and a welcoming vibe. The bar serves a variety of drinks, including local beers and cocktails, perfect for enjoying while rocking out. With its history of hosting both local and touring artists, The Rock Pub is a must-visit for music lovers in Thailand.","info": ""},
+{"id": "4", "name": "Rock Factory", "description": "Rock Factory in Pattaya is a lively bar that embodies the spirit of rock music. With regular live performances, the venue showcases both emerging and established artists. The walls are adorned with memorabilia, creating an immersive rock ambiance. Patrons can enjoy a wide selection of drinks, including signature cocktails and local brews, while reveling in the energetic atmosphere. The spacious layout also features a dance floor, making it a popular spot for late-night revelries and unforgettable musical experiences.", "info": ""},
+{"id": "5", "name": "Bauhaus Roppongi", "description": "Bauhaus Roppongi is a unique music bar in Tokyo, blending art and rock culture. Known for its creative cocktails and eclectic music selection, it attracts a diverse crowd of locals and expats. The venue hosts live DJ sets and performances, featuring genres from rock to electronic. Its stylish interior, adorned with contemporary art, enhances the vibrant atmosphere. Bauhaus is not just a place to drink but a cultural hub where music, art, and nightlife collide in the heart of Roppongi.", "info": ""},
+{"id": "6", "name": "Rockaholic Shibuya Music Bar", "description": "Rockaholic Shibuya Music Bar is a haven for rock fans in Tokyo. This intimate venue offers a cozy setting filled with memorabilia from rock legends. The bar features live performances from emerging bands and tribute acts, ensuring a lively atmosphere. Guests can enjoy a wide range of drinks, including craft beers and signature cocktails. With its friendly staff and passionate music lovers, Rockaholic is the perfect spot to unwind, socialize, and experience the vibrant Tokyo music scene.", "info": ""},
+{"id": "7", "name": "12 Monkeys Music Hall & Pub", "description": "12 Monkeys Music Hall & Pub in the Philippines is a dynamic venue that celebrates live music in all its forms. With a diverse lineup of local and international acts, it features genres ranging from rock and reggae to jazz and indie. The intimate space encourages a close connection between artists and audiences. The bar offers a wide selection of beverages, including local craft beers and cocktails. With its creative atmosphere and regular events, 12 Monkeys is a must-visit for music enthusiasts.", "info": ""},
+{"id": "8", "name": "Club FF", "description": "Club FF in Korea is a prominent music venue that showcases the best of the local indie and rock scenes. With its laid-back vibe and passionate crowd, the club hosts regular live performances that draw in music lovers from all over. The bar serves a selection of drinks, including local beers and cocktails, perfect for enjoying while listening to emerging talent. Club FF is a cornerstone of Korea’s underground music culture, making it a key destination for anyone looking to discover new sounds.", "info": ""},
+{"id": "9", "name": "Hanoi Rock City", "description": "Hanoi Rock City is a vibrant music venue and cultural hub in Vietnam, known for its eclectic lineup of live performances. The space features a mix of local and international artists, spanning genres from rock to electronic. With its artistic decor and outdoor area, it creates a relaxed atmosphere for music lovers to gather. The bar offers a variety of drinks and often hosts art exhibitions, film screenings, and other creative events, making it a dynamic destination for both music and culture.", "info": ""},
+{"id": "10", "name": "The Flying V Metal Bar", "description": "The Flying V Metal Bar is a haven for metal enthusiasts in Singapore. Known for its heavy metal and hard rock performances, the venue features a diverse lineup of local bands and tribute acts. The dark, gritty decor creates a fitting atmosphere for headbanging and moshing. The bar offers an extensive selection of craft beers and cocktails, enhancing the energetic vibe. With regular themed nights and events, The Flying V is the go-to spot for anyone looking to immerse themselves in Singapore’s metal scene.", "info": ""},
+{"id": "11", "name": "Tom, Dick & Harry's", "description": "Tom, Dick & Harry's is a popular music bar in Malaysia, known for its laid-back atmosphere and live performances. Featuring a mix of local bands and acoustic acts, it offers a diverse range of musical genres. The bar serves an extensive menu of drinks and comfort food, making it a perfect spot for casual gatherings with friends. With its inviting decor and friendly staff, Tom, Dick & Harry's is a favorite among locals and visitors looking to unwind and enjoy great music.", "info": ""},
+{"id": "12", "name": "Gimme Shelter Bali", "description": "Gimme Shelter Bali is a vibrant music venue located in the heart of Bali, celebrated for its live music and artsy vibe. The bar hosts a variety of local and international acts, from rock bands to DJs, creating an electric atmosphere. With its eclectic decor and open-air setting, it’s a perfect spot to enjoy a drink while soaking in the tropical ambiance. The menu features a mix of cocktails, beers, and delicious local cuisine, making Gimme Shelter a must-visit for music lovers in Bali.", "info": ""}
 ]
