@@ -1,5 +1,5 @@
 [
-{"id": "1", "name": "Budweiser", "price": 5.5, "currency": "USD"},
+{"id": "1", "name": "abc bar", "price": 5.5, "currency": "USD"},
 {"id": "2", "name": "Guinness", "price": 6.0, "currency": "USD"},
 {"id": "3", "name": "Heineken", "price": 5.75,"currency": "USD"},
 {"id": "4", "name": "Chardonnay", "price": 8.5, "currency": "USD"},
