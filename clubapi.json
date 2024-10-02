@@ -7,8 +7,8 @@
 {"id": "6", "name": "Pinot Noir", "price": 10.0, "currency": "USD"},
 {"id": "7", "name": "Mojito", "price": 8.0, "currency": "USD"},
 {"id": "8", "name": "Margarita", "price": 7.5, "currency": "USD"},
-{"id": "9",  "name": "Old Fashioned", "price": 9.0, "currency": "USD"},
-{"id": "10",  "name": "Coca-Cola", "price": 2.5, "currency": "USD"},
+{"id": "9", "name": "Old Fashioned", "price": 9.0, "currency": "USD"},
+{"id": "10", "name": "Coca-Cola", "price": 2.5, "currency": "USD"},
 {"id": "11", "name": "Sprite", "price": 2.5, "currency": "USD"},
-{"id": "12", "name": "name": "Tonic Water", "price": 3.0, "currency": "USD"}
+{"id": "12", "name": "Tonic Water", "price": 3.0, "currency": "USD"}
 ]
