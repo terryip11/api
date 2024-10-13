@@ -1,0 +1,5 @@
+[   
+  {"id":"1", "dayprice":"2400", "nightprice":"3000", "productname":"The Wanch"},  
+  {"id":"2", "dayprice":"1400", "nightprice":"2000", "productname":"ClubFF"},
+  {"id":"3", "dayprice":"1000", "nightprice":"1000", "productname":"FlyingVmetal"}
+]
